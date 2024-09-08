@@ -1,7 +1,7 @@
 # Memorsion - Manuel Chantre
 *Fusion de la Mémoire et de la Distorsion*
 
-![Memorsion - Vue générale](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_01_photocredit_Stephanie_Chantre_crop.jpeg)
+![Memorsion - Vue générale](./images/memorsion-vue-cote.jpg)
 
 ## Qui?
 ---
@@ -93,6 +93,8 @@ Manuel Charte semble viser un public **adulte**, en particulier des personnes se
 
 ### Aspects techniques
 
+![Placement - Memorsion](./images/memorsion-installation.png)
+
 #### Matériaux
 
 - 24 écrans de projection en polyester
@@ -111,7 +113,7 @@ Les images en noir et blanc sont saccadées, clignotantes, frénétiques et tran
 
 Les scènes sont souvent interrompues par des lignes horizontales vacillantes, évoquant une vieille émission de télévision. L’**« œil »** de la caméra se déplace, parfois en douceur, parfois de manière saccadée et presque violente. On observe des géométries fragmentées, ressemblant à de la glace ou à des formes éclatées, flottant dans l’espace. Ces éléments laissent place à des projections en couleurs vives, telles que le jaune éclatant ou le bleu intense, synchronisées avec un drone de grésillements rappelant l’**ozone brûlant**.
 
-![Projection et Tissus](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_18_photocredit_Manuel_Chantre_cropb.jpg)
+![Projection et Tissus](./images/memorsion-tissus.jpg)
 
 ### Processus de création
 
@@ -127,7 +129,7 @@ Pour compléter le projet, Chantre lance à l'**automne 2012** une compilation d
 
 #### Les projecteurs
 
-![Projection](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_26_photocredit_Germain_Ferrey_crop.jpeg)
+![Projection](./images/memorsion-projection.jpg)
 
 **Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une **scène à travers une autre**.
  
@@ -148,7 +150,7 @@ L'interaction active engage les spectateurs en les impliquant directement dans l
 
 ### Impact 
 
-![Oeuvre](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_08_photocredit_Manuel_Chantre_crop.jpg)
+![Oeuvre](./images/memorsion-vue-generale.jpg)
 
 #### Projections déclenchées par le mouvement 
 
@@ -169,14 +171,14 @@ J'apprécie particulièrement ***Memorsion*** pour sa capacité à créer une ex
 
 ## Sources
 ---
-- [Site Manuel Chantre](http://www.manuelchantre.com/memorsion/)
-- [Shadow on the wall](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_Verb_MacPherson_Memorsion16.jpg)
-- [Site Manuel Chantre](http://www.manuelchantre.com/memorsion/)
-- [Présentation docuement - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_pr%C3%A9sentation_vid%C3%A9ographe_eastern_bloc_Memorsion_Web-121.pdf)
-- [Paved Arts](https://www.pavedarts.ca/2013/memorsion/)
-- [Entrevue - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2012_M%C3%A9dium_saignant_Manuel_Chantre-3.pdf)
-- [Mermorsion description](https://e-artexte.ca/id/eprint/29273/1/Memorsion_description_eng.pdf)
-- [Article - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_A_Word_Gazzola_Memorsion.pdf)
-- [Document de présentation](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_présentation_vidéographe_eastern_bloc_Memorsion_Web-121.pdf)
-- [Entrevue Youtube](https://www.youtube.com/watch?v=XdfaI-GKwW0)
-- [Entrevue Vimeo](https://vimeo.com/32464821)
+[Site Manuel Chantre](http://www.manuelchantre.com/memorsion/) <br>
+[Shadow on the wall](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_Verb_MacPherson_Memorsion16.jpg) <br>
+[Site Manuel Chantre](http://www.manuelchantre.com/memorsion/) <br>
+[Présentation docuement - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_pr%C3%A9sentation_vid%C3%A9ographe_eastern_bloc_Memorsion_Web-121.pdf) <br>
+[Paved Arts](https://www.pavedarts.ca/2013/memorsion/) <br>
+[Entrevue - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2012_M%C3%A9dium_saignant_Manuel_Chantre-3.pdf) <br>
+[Mermorsion description](https://e-artexte.ca/id/eprint/29273/1/Memorsion_description_eng.pdf) <br>
+[Article - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_A_Word_Gazzola_Memorsion.pdf) <br>
+[Document de présentation](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_présentation_vidéographe_eastern_bloc_Memorsion_Web-121.pdf) <br>
+[Entrevue Youtube](https://www.youtube.com/watch?v=XdfaI-GKwW0) <br>
+[Entrevue Vimeo](https://vimeo.com/32464821) <br>
