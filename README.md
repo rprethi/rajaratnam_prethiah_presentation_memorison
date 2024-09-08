@@ -1,11 +1,11 @@
 # Memorsion - Manuel Chantre
 
 ## Qui?
-
+---
 ### Artistes
 
 - **Auteur, Vidéo, musique, programmation et conception :** Manuel Chantre
-  
+
 ### Équipe de production 
 
 - **Assistante au tournage, au montage et à la production :** Hortense Le Forestier De Quillien
@@ -27,7 +27,7 @@
 - Programme de résidence-expo de Vidéographe
 
 ## Quand?
-
+---
 ### Date de création 
 L'oeuvre à été crée en 2010
 
@@ -46,7 +46,7 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
 - Vernissage de Memorsion, Estern Bloc, 3 juin 2010, 18h à 21h
 
 ## Où ?
-
+---
 ### Lieu de présentation initiale 
 
 - EASTERN BLOC
@@ -65,7 +65,38 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
 ##### Cardre géographique
 
 ## Quoi ?
-
+---
 ### Description générale
 
 ### Objectifs de l'œuvre
+- Son objectif est d’évoquer chez des adultes des souvenirs personnels liés à des lieux similaires, en utilisant des éléments architecturaux pour réveiller ces mémoires. Il veut que ce public adulte se reconnecte à ses propres expériences et développe une réflexion sur la manière dont les espaces influencent leur mémoire et leurs émotions.
+  
+### Public cible 
+
+- Manuel Charte semble viser un public **adulte**, en particulier des personnes sensibles à l'architecture, la mémoire des lieux, et l'expérience humaine dans les espaces. Il cherche à faire réfléchir ce public sur le fait que les lieux ont une **existence propre, indépendamment des gens qui y vivent, mais qu'ils racontent aussi les histoires de ceux qui les habitent.**
+
+### Aspects techniques
+
+#### Matériaux
+
+- 24 écrans de projection en polyester
+- Tuyaux en aluminium
+- Cordes en polyester
+- 4 à 6 haut-parleurs
+- 1 à 2 haut-parleurs de basses fréquences
+- 4 projecteurs
+- 1 ordinateur
+- 1 logiciel multimédia
+- 1 caméra infrarouge et lampe infrarouge
+
+#### Images
+Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de 2D et de 3D. 
+
+#### Dimensions
+- 900 x 900 x 244 cm (configuration A)
+- 900 x 1350 x 244 cm (configuration B)
+
+## Comment ?
+---
+## Sources
+---
