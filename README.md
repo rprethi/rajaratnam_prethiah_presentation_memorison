@@ -1,7 +1,7 @@
 # Memorsion - Manuel Chantre
-*Fusion de la ***Mémoire** et de la **Distorsion** *
+*Fusion de la Mémoire et de la Distorsion*
 
-![Memorsion - Vue générale](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_01_photocredit_Stephanie_Chantre_crop.jpg)
+![Memorsion - Vue générale](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_01_photocredit_Stephanie_Chantre_crop.jpeg)
 
 ## Qui?
 ---
@@ -24,7 +24,7 @@
 
 ### Collaborateurs
 - [Société des arts technologiques](https://sat.qc.ca/)
-- [Prim](https://primcentre.org/) (Version 1.2 ) 
+- [Prim](https://primcentre.org/) (Version 1.2) 
   
 ### Contribution
 - Programme de résidence-expo de Vidéographe
@@ -57,7 +57,7 @@ La première présentation se déroule du **3 au 21 juin 2010**, du lundi au sam
 
 - EASTERN BLOC
    - 7240 rue Clark, 2e étage, Montréal, QC 
-  
+
 ### Contexte géographique et culturel 
 
 ##### Cadre culturel
@@ -71,8 +71,6 @@ Le cadre géographique de l'œuvre de Manuel Chantre se concentre sur l'architec
 ### Description générale
 
 ***Memorsion*** est une installation **audiovisuelle immersive** composée d'une vingtaine de toiles de projection. Elle propose une expérience sensorielle et narrative à travers des vidéos déconstruites et une musique dramatique. En se déplaçant dans ce labyrinthe de projections, le public **modifie le contenu visuel**. Le projet explore la mémoire des lieux urbains, qu'ils soient imaginés, construits, détruits ou oubliés. Les images de structures urbaines, d'édifices abandonnés et de graffitis sont modifiées, créant ainsi un **espace fictif**.
-
-[![Titre de la vidéo](http://img.youtube.com/vi/BYlQbBoXQeU/0.jpg)](http://www.youtube.com/watch?v=BYlQbBoXQeU)
 
 ### Objectifs de l'œuvre
 
@@ -109,11 +107,11 @@ Manuel Charte semble viser un public **adulte**, en particulier des personnes se
 - Tissus
 
 #### Images et scènes
-- Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de **2D et de 3D**. 
+Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de **2D et de 3D**. 
 
-- Les scènes sont souvent interrompues par des lignes horizontales vacillantes, évoquant une vieille émission de télévision. L’**« œil »** de la caméra se déplace, parfois en douceur, parfois de manière saccadée et presque violente. On observe des géométries fragmentées, ressemblant à de la glace ou à des formes éclatées, flottant dans l’espace. Ces éléments laissent place à des projections en couleurs vives, telles que le jaune éclatant ou le bleu intense, synchronisées avec un drone de grésillements rappelant l’**ozone brûlant**.
+Les scènes sont souvent interrompues par des lignes horizontales vacillantes, évoquant une vieille émission de télévision. L’**« œil »** de la caméra se déplace, parfois en douceur, parfois de manière saccadée et presque violente. On observe des géométries fragmentées, ressemblant à de la glace ou à des formes éclatées, flottant dans l’espace. Ces éléments laissent place à des projections en couleurs vives, telles que le jaune éclatant ou le bleu intense, synchronisées avec un drone de grésillements rappelant l’**ozone brûlant**.
 
-![Projection et Tissus](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_18_photocredit_Manuel_Chantre_cropb.jpg)
+![Projection et Tissus](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_18_photocredit_Manuel_Chantre_cropb.jpg)
 
 ### Processus de création
 
@@ -129,14 +127,14 @@ Pour compléter le projet, Chantre lance à l'**automne 2012** une compilation d
 
 #### Les projecteurs
 
-![Projection](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_26_photocredit_Germain_Ferrey_crop.jpg)
+![Projection](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_26_photocredit_Germain_Ferrey_crop.jpeg)
 
-- **Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une **scène à travers une autre**.
+**Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une **scène à travers une autre**.
  
-- **Ambiance monochromatique :** Principalement en noir et blanc, la **projection monochromatique** confère à l'espace une atmosphère mélancolique ou grave. Elle présente des graffitis, des visages qui semblent pleurer, et des scènes de désolation urbaine, toutes clignotantes et en boucle.
+**Ambiance monochromatique :** Principalement en noir et blanc, la **projection monochromatique** confère à l'espace une atmosphère mélancolique ou grave. Elle présente des graffitis, des visages qui semblent pleurer, et des scènes de désolation urbaine, toutes clignotantes et en boucle.
 
-- **Interaction avec le public :** En se déplaçant à travers ***Memorsion***, le spectateur s'**immerge** dans le monde visuel de la même manière qu'il est projeté sur les écrans. Cette immersion ne peut jamais être complète, car les images perturbent tout effort pour suivre un fil narratif ou une trajectoire.
-- 
+**Interaction avec le public :** En se déplaçant à travers ***Memorsion***, le spectateur s'**immerge** dans le monde visuel de la même manière qu'il est projeté sur les écrans. Cette immersion ne peut jamais être complète, car les images perturbent tout effort pour suivre un fil narratif ou une trajectoire.
+
 ### Fonctionnement
 
 #### Projections déclenchées par le mouvement 
@@ -150,7 +148,7 @@ L'interaction active engage les spectateurs en les impliquant directement dans l
 
 ### Impact 
 
-![Oeuvre](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_08_photocredit_Manuel_Chantre_crop.jpg)
+![Oeuvre](https://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_08_photocredit_Manuel_Chantre_crop.jpg)
 
 #### Projections déclenchées par le mouvement 
 
