@@ -1,4 +1,7 @@
 # Memorsion - Manuel Chantre
+*Fusion de la Mémoire et de la Distorsion*
+
+![Memorison - Vue générale](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_01_photocredit_Stephanie_Chantre_crop.jpg)
 
 ## Qui?
 ---
@@ -17,11 +20,11 @@
 - **Collaboration au tournage :** Francis Pineau 
 
 ### Partenaire
-- Eastern Bloc 
+- [Eastern Bloc](https://www.easternbloc.ca/)
 
 ### Collaborateurs
-- Société des arts technologiques
-- Prim (Version 1.2 )
+- [Société des arts technologiques](https://sat.qc.ca/)
+- [Prim](https://primcentre.org/) (Version 1.2 ) 
   
 ### Contribution
 - Programme de résidence-expo de Vidéographe
@@ -53,8 +56,7 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
 ### Lieu de présentation initiale 
 
 - EASTERN BLOC
-   - 7240 rue Clark, 2e étage
-   - Montréal, QC
+   - 7240 rue Clark, 2e étage, Montréal, QC 
   
 ### Contexte géographique et culturel 
 
@@ -69,6 +71,8 @@ Le cadre géographique de l'œuvre de Manuel Chantre est centré autour de l'arc
 ### Description générale
 
 Memorsion est une installation audiovisuelle immersive composée d'une vingtaine de toiles de projection. Elle offre une expérience sensorielle et narrative avec des vidéos déconstruites et une musique dramatique. En se déplaçant dans ce labyrinthe de projections, le public module le contenu visuel. Le projet explore la mémoire des lieux urbains imaginés, construits, détruits ou oubliés. Des images de structures urbaines, d'édifices abandonnés et de graffitis sont modifiées, créant un espace fictif.
+
+[![Memorsion - A urban maze of video projections](https://i.vimeocdn.com/video/918517606_640.jpg)](https://vimeo.com/13530731)
 
 ### Objectifs de l'œuvre
 
@@ -102,15 +106,14 @@ Memorsion est une installation audiovisuelle immersive composée d'une vingtaine
 - 1 ordinateur
 - 1 logiciel multimédia
 - 1 caméra infrarouge et lampe infrarouge
+- Tissus
 
 #### Images et scènes
 - Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de 2D et de 3D. 
 
 - Les scènes sont souvent interrompues par des lignes horizontales vacillantes (comme une vieille émission de télévision), et l'« œil » de la caméra se déplace, parfois en douceur, parfois de manière saccadée et presque violente. Il y a des géométries fragmentées, comme de la glace ou des formes, qui volent dans l'espace, et qui font place à des projections en couleurs d'un jaune éclatant ou d'un bleu intense (synchronisées avec une sorte de drone de grésillement brûlant de l'ozone).
 
-#### Dimensions
-- 900 x 900 x 244 cm (configuration A)
-- 900 x 1350 x 244 cm (configuration B)
+![Projection et Tissus](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_18_photocredit_Manuel_Chantre_cropb.jpg)
 
 ### Processus de création
 
@@ -120,7 +123,9 @@ Memorsion est une installation audiovisuelle immersive composée d'une vingtaine
 
 #### Les projecteurs
 
-- **Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une scène à travers une autre. Parfois, cela donne l'impression de regarder un fantôme de ville ou une grande apparition hantant l'espace.
+![Projection](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_26_photocredit_Germain_Ferrey_crop.jpg)
+
+- **Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une scène à travers une autre. 
 - **Ambiance monochromatique :** Principalement en noir et blanc, la projection monochromatique confère à l'espace une atmosphère mélancolique ou grave, avec des graffitis, des visages qui semblent pleurer et des scènes de désolation urbaine, toutes clignotantes et en boucle.
 - **Interaction avec le public :** En se déplaçant à travers Memorsion, le spectateur se projette dans le monde visuel tout comme il est projeté sur les écrans. Cette projection ne peut jamais être complète, car les images perturbent tout effort pour suivre un fil narratif ou une trajectoire.
 - 
@@ -137,6 +142,8 @@ L'interaction active engage les spectateurs en les intégrant dans la création 
 
 ### Impact 
 
+![Oeuvre](http://www.manuelchantre.com/wp-content/uploads/2018/01/Memorsion_08_photocredit_Manuel_Chantre_crop.jpg)
+
 #### Projections déclenchées par le mouvement 
 
 La composante centrale de Memorsion, les projections déclenchées par le mouvement, impacte profondément la réception de l'œuvre. Les projections montrent des fragments d'espaces abandonnés et d'architectures urbaines spécifiques à Montréal, présentées sous des angles déformés et non linéaires. Chantre utilise ces images pour évoquer un « sens de l’intemporalité » et permettre au spectateur de se « perdre » dans l’installation, créant une expérience immersive unique.
@@ -152,5 +159,18 @@ Ce qui distingue Memorsion dans le paysage multimédia, c'est la manière dont l
 ## Appréciation et commentaire personnel
 ---
 
+J'apprécie particulièrement Memorsion pour sa capacité à créer une expérience immersive qui répond de manière unique à chaque spectateur. L'œuvre, en étant à la fois abstraite et familière, invite à une réflexion profonde sur notre relation avec les environnements urbains. Memorsion se distingue par sa capacité à rendre visible l'invisible, en transformant des lieux souvent considérés comme banals ou abandonnés en espaces chargés de significations personnelles et collectives. C'est cette approche innovante et introspective qui rend l'œuvre non seulement captivante mais aussi extrêmement pertinente dans notre compréhension des espaces et de la mémoire.
+
 ## Sources
 ---
+[Site Manuel Chantre](http://www.manuelchantre.com/memorsion/)
+[Shadow on the wall](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_Verb_MacPherson_Memorsion16.jpg)
+[Site Manuel Chantre](http://www.manuelchantre.com/memorsion/)
+[Présentation docuement - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_pr%C3%A9sentation_vid%C3%A9ographe_eastern_bloc_Memorsion_Web-121.pdf)
+[Paved Arts](https://www.pavedarts.ca/2013/memorsion/)
+[Entrevue - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2012_M%C3%A9dium_saignant_Manuel_Chantre-3.pdf)
+[Mermorsion description](https://e-artexte.ca/id/eprint/29273/1/Memorsion_description_eng.pdf)
+[Article - Manuel Chantre](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_A_Word_Gazzola_Memorsion.pdf)
+[Document de présentation](http://www.manuelchantre.com/wp-content/uploads/2014/10/2010_Document_de_présentation_vidéographe_eastern_bloc_Memorsion_Web-121.pdf)
+[Entrevue Youtube](https://www.youtube.com/watch?v=XdfaI-GKwW0)
+[Entrevue Vimeo](https://vimeo.com/32464821)
