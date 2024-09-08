@@ -45,6 +45,9 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
 - Eastern Bloc, exposition en solo, Montréal (CA), 2010, lundi au samedi, 10h à 18h
 - Vernissage de Memorsion, Estern Bloc, 3 juin 2010, 18h à 21h
 
+### Prix 
+- Artiste de la relève 2010 pour Memorsion : **Chantal L’Heureux**, chroniqueuse arts visuels, Montréal (CA), 2011
+
 ## Où ?
 ---
 ### Lieu de présentation initiale 
@@ -55,22 +58,33 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
   
 ### Contexte géographique et culturel 
 
-#### Inspiration
-
 ##### Cadre culturel
-
-- Film **Metropolis**
-   - Manuel Charte s'inspire du film Metropolis pour explorer l'impact émotionnel des lieux abandonnés et en ruine, caractérisés par des formes mécaniques et des environnements industriels dégradés. Il utilise des sites sombres, jonchés d'ordures et marqués par la désolation pour évoquer une atmosphère sans espoir, accentuée par des éléments comme des gongs inquiétants. 
+L'œuvre de Manuel Chantre est influencée par sa réflexion sur la construction culturelle. Chantre, ayant étudié les sciences humaines, a été marqué par l'idée que la culture est une construction humaine, façonnée par des actions et des représentations symboliques. À travers son œuvre, il cherche à renverser cette conception en créant un environnement non linéaire, laissant aux spectateurs la liberté d'apporter leurs propres expériences et interprétations. Cette approche permet de tester l'idée que l'environnement et le monde qui nous entoure sont des constructions humaines, tout en reflétant une interrogation sur les structures culturelles, sociales et architecturales.
   
 ##### Cardre géographique
+Le cadre géographique de l'œuvre de Manuel Chantre est centré autour de l'architecture et de l'environnement urbain. Son travail intègre des représentations symboliques liées à l'architecture, influencées par l'idée que les espaces que nous habitons sont des créations humaines. En plaçant ces représentations dans un contexte non linéaire, Chantre invite le public à réinterpréter l'espace urbain et à le voir non pas comme un cadre fixe, mais comme une entité malléable et subjective. Ce cadre géographique, ancré dans l'urbanisme, est réinterprété par les spectateurs selon leurs propres expériences, créant ainsi une interaction entre l'espace physique et la perception individuelle.
 
 ## Quoi ?
 ---
 ### Description générale
 
+Memorsion est une installation audiovisuelle immersive composée d'une vingtaine de toiles de projection. Elle offre une expérience sensorielle et narrative avec des vidéos déconstruites et une musique dramatique. En se déplaçant dans ce labyrinthe de projections, le public module le contenu visuel. Le projet explore la mémoire des lieux urbains imaginés, construits, détruits ou oubliés. Des images de structures urbaines, d'édifices abandonnés et de graffitis sont modifiées, créant un espace fictif.
+
 ### Objectifs de l'œuvre
-- Son objectif est d’évoquer chez des adultes des souvenirs personnels liés à des lieux similaires, en utilisant des éléments architecturaux pour réveiller ces mémoires. Il veut que ce public adulte se reconnecte à ses propres expériences et développe une réflexion sur la manière dont les espaces influencent leur mémoire et leurs émotions.
-  
+
+#### Expérience
+- L'objectif de Manuel Chantre est de réveiller chez le public des souvenirs personnels liés à des lieux urbains similaires. En utilisant des éléments architecturaux, il cherche à faire émerger ces mémoires et à encourager une réflexion sur la manière dont les espaces influencent la mémoire et les émotions. Il souhaite que ce public adulte se reconnecte à ses propres expériences, tout en prenant conscience de l'impact des environnements urbains sur leur vécu émotionnel.
+
+#### Message
+
+> "The statement behind this is to see the buildings as they are, without people inside" <br><br>*Manuel Chantre*
+>
+>> «L'idée sous-jacente est de voir les bâtiments tels qu'ils sont, sans personne à l'intérieur» <br><br>*Manuel Chantre*
+
+- Le message de Manuel Chantre est que les espaces publics urbains ne sont pas des réalités fixes, mais des constructions culturelles façonnées par les perceptions humaines. Il souhaite que son œuvre pousse le public à réfléchir à cette notion et à envisager l'architecture urbaine sous différents angles. Son intention est de provoquer une prise de conscience sur la manière dont nous habitons ces espaces, en soulignant leur caractère subjectif et modifiable, plutôt que purement concret et immuable.
+
+- Memorsion est une réflexion sur la représentation de l’architecture urbaine et la mémoire culturelle des lieux.
+
 ### Public cible 
 
 - Manuel Charte semble viser un public **adulte**, en particulier des personnes sensibles à l'architecture, la mémoire des lieux, et l'expérience humaine dans les espaces. Il cherche à faire réfléchir ce public sur le fait que les lieux ont une **existence propre, indépendamment des gens qui y vivent, mais qu'ils racontent aussi les histoires de ceux qui les habitent.**
@@ -89,14 +103,54 @@ La première présentation à lieu du 3 juin au 21 juin 2010, du lundi au samedi
 - 1 logiciel multimédia
 - 1 caméra infrarouge et lampe infrarouge
 
-#### Images
-Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de 2D et de 3D. 
+#### Images et scènes
+- Les images en noir et blanc sont saccadées, clignotantes, frénétiques et transformées par différentes techniques de 2D et de 3D. 
+
+- Les scènes sont souvent interrompues par des lignes horizontales vacillantes (comme une vieille émission de télévision), et l'« œil » de la caméra se déplace, parfois en douceur, parfois de manière saccadée et presque violente. Il y a des géométries fragmentées, comme de la glace ou des formes, qui volent dans l'espace, et qui font place à des projections en couleurs d'un jaune éclatant ou d'un bleu intense (synchronisées avec une sorte de drone de grésillement brûlant de l'ozone).
 
 #### Dimensions
 - 900 x 900 x 244 cm (configuration A)
 - 900 x 1350 x 244 cm (configuration B)
 
+### Processus de création
+
 ## Comment ?
 ---
+### Composante centrale
+
+#### Les projecteurs
+
+- **Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une scène à travers une autre. Parfois, cela donne l'impression de regarder un fantôme de ville ou une grande apparition hantant l'espace.
+- **Ambiance monochromatique :** Principalement en noir et blanc, la projection monochromatique confère à l'espace une atmosphère mélancolique ou grave, avec des graffitis, des visages qui semblent pleurer et des scènes de désolation urbaine, toutes clignotantes et en boucle.
+- **Interaction avec le public :** En se déplaçant à travers Memorsion, le spectateur se projette dans le monde visuel tout comme il est projeté sur les écrans. Cette projection ne peut jamais être complète, car les images perturbent tout effort pour suivre un fil narratif ou une trajectoire.
+- 
+### Fonctionnement
+
+#### Projections déclenchées par le mouvement 
+Memorsion utilise des projections déclenchées par le mouvement des spectateurs, permettant des images et des sons différents selon leur navigation dans l'espace. Cela rend chaque expérience unique et personnalisée.
+
+#### Contributions à l'expérience globale
+Cette interactivité crée une immersion totale, où les projections semi-aléatoires d'éléments urbains et de gestes quotidiens permettent aux visiteurs de refléter leurs propres expériences et émotions, tout en explorant le concept du « lieu nulle part ».
+
+#### Rôle dans l'engagement du public
+L'interaction active engage les spectateurs en les intégrant dans la création de leur expérience visuelle et émotionnelle, renforçant ainsi leur connexion personnelle avec l'œuvre et favorisant une réflexion sur l'influence des espaces urbains sur la mémoire et les émotions.
+
+### Impact 
+
+#### Projections déclenchées par le mouvement 
+
+La composante centrale de Memorsion, les projections déclenchées par le mouvement, impacte profondément la réception de l'œuvre. Les projections montrent des fragments d'espaces abandonnés et d'architectures urbaines spécifiques à Montréal, présentées sous des angles déformés et non linéaires. Chantre utilise ces images pour évoquer un « sens de l’intemporalité » et permettre au spectateur de se « perdre » dans l’installation, créant une expérience immersive unique.
+
+> «Le monde compare l’installation à un labyrinthe, à une maison de miroirs.» <br><br>*Manuel Chantre*
+
+#### Distinction dans le paysage multimédia 
+
+Ce qui distingue Memorsion dans le paysage multimédia, c'est la manière dont les projections, influencées par les mouvements des spectateurs, modifient constamment le contenu visuel. Chantre explique que cette approche permet de confronter les éléments familiers de notre quotidien en les présentant dans un environnement stylisé et de stimuler l’imagination. Les images déstructurées, telles que celles montrant des comportements quotidiens comme une femme mangeant ou se coiffant, ainsi que des éléments d’architecture urbaine, sont présentées de manière à cacher leur emplacement réel, transformant ces lieux en « lieu nulle part » de l’imagination culturelle.
+
+> «C’était l’idée de laisser aux gens de découvrir certains lieux et de réfléchir à l’architecture.» <br><br>*Manuel Chantre*
+
+## Appréciation et commentaire personnel
+---
+
 ## Sources
 ---
