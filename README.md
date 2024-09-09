@@ -1,40 +1,50 @@
 # Memorsion - Manuel Chantre
-*Fusion de la Mémoire et de la Distorsion*
+
+_Fusion de la Mémoire et de la Distorsion_
 
 ![Memorsion - Vue générale](./images/memorsion-vue-cote.jpg)
 
 ## Qui?
+
 ---
+
 ### Artistes
 
 - **Auteur, Vidéo, musique, programmation et conception :** Manuel Chantre
 
-### Équipe de production 
+### Équipe de production
 
 - **Assistante au tournage, au montage et à la production :** Hortense Le Forestier De Quillien
 - **Collaboration à la programmation:** Éric Andrade et Nathanaël Lécaudé du Studio imaginaire
 - **Figuration :** Roxanne Belanger, Lucia Carballo, Katty Daelman, Benjamin Michaud, Karolina Montana, Claude Paradis
-- **Confection tissu :** Nicole Cantin 
+- **Confection tissu :** Nicole Cantin
 - **Consultant dispositif :** Sébastien Dallaire
 - **Consultante matériaux :** Isabelle Kaliaguine
-- **Collaboration au tournage :** Francis Pineau 
+- **Collaboration au tournage :** Francis Pineau
 
 ### Partenaire
+
 - [Eastern Bloc](https://www.easternbloc.ca/)
 
 ### Collaborateurs
+
 - [Société des arts technologiques](https://sat.qc.ca/)
-- [Prim](https://primcentre.org/) (Version 1.2) 
-  
+- [Prim](https://primcentre.org/) (Version 1.2)
+
 ### Contribution
+
 - Programme de résidence-expo de Vidéographe
 
 ## Quand?
+
 ---
-### Date de création 
+
+### Date de création
+
 - **2010**
 
-### Date de première présentation 
+### Date de première présentation
+
 - **3 au 21 juin 2010**, du lundi au samedi, de 10h à 18h.
 
 ### Dates et lieux importants
@@ -48,45 +58,54 @@
 - **Eastern Bloc**, exposition en solo, Montréal (CA), 2010, lundi au samedi, 10h à 18h
 - **Vernissage de Memorsion**, Eastern Bloc, 3 juin 2010, 18h à 21h
 
-### Prix 
+### Prix
+
 - Artiste de la relève 2010 pour Memorsion : **Chantal L’Heureux**, chroniqueuse arts visuels, Montréal (CA), 2011
 
 ## Où ?
+
 ---
-### Lieu de présentation initiale 
+
+### Lieu de présentation initiale
 
 - EASTERN BLOC
-   - 7240 rue Clark, 2e étage, Montréal, QC 
+  - 7240 rue Clark, 2e étage, Montréal, QC
 
-### Contexte géographique et culturel 
+### Contexte géographique et culturel
 
 ##### Cadre culturel
+
 Diplômé en sciences humaines, Manuel Chantre remet en question la culture comme **construction humaine** en créant des environnements non linéaires où les spectateurs apportent leurs propres expériences et interprétations.
-  
+
 ##### Cardre géographique
+
 L'œuvre de Manuel Chantre, centrée sur l'architecture et l'**environnement urbain**, place ces espaces comme des créations humaines malléables que les spectateurs réinterprètent subjectivement à travers leurs propres expériences.
 
 ## Quoi ?
+
 ---
+
 ### Description générale
-***Memorsion*** est une installation immersive avec une vingtaine de toiles de projection où le public, en se déplaçant, modifie le contenu visuel, explorant la mémoire des lieux urbains à travers des images de structures, d'édifices abandonnés et de graffitis, créant un espace fictif.
+
+**_Memorsion_** est une installation immersive avec une vingtaine de toiles de projection où le public, en se déplaçant, modifie le contenu visuel, explorant la mémoire des lieux urbains à travers des images de structures, d'édifices abandonnés et de graffitis, créant un espace fictif.
 
 ### Objectifs de l'œuvre
 
 #### Expérience
+
 Manuel Chantre vise à éveiller chez le public des **souvenirs personnels** liés à des lieux urbains similaires, en utilisant des éléments architecturaux pour refléter l'influence des espaces sur la mémoire et les émotions, incitant ainsi les adultes à se reconnecter à leur vécu émotionnel.
 
 #### Message
 
-> "The statement behind this is to **see** the buildings **as they are**, **without** people inside" <br><br>*Manuel Chantre*
+> "The statement behind this is to **see** the buildings **as they are**, **without** people inside" <br><br>_Manuel Chantre_
 >
->> «L'idée sous-jacente est de **voir** les bâtiments **tels qu'ils sont**, **sans** personne à l'intérieur» <br><br>*Manuel Chantre*
+> > «L'idée sous-jacente est de **voir** les bâtiments **tels qu'ils sont**, **sans** personne à l'intérieur» <br><br>_Manuel Chantre_
 
 Son intention est de provoquer une **prise de conscience** sur la manière dont nous habitons ces espaces, en soulignant leur caractère subjectif et modifiable plutôt que purement concret et immuable.
 
-### Public cible 
+### Public cible
 
-Il cherche à faire réfléchir le public (adultes) sur le fait que les lieux ont une **existence propre, indépendamment des gens qui y vivent, mais qu'ils racontent aussi les histoires de ceux qui les habitent.**
+Il cherche à faire réfléchir le **public adulte** sur le fait que les lieux ont **une existence propre, indépendamment des habitants, tout en racontant les histoires de ceux qui les habitent.**
 
 ### Aspects techniques
 
@@ -107,54 +126,64 @@ Il cherche à faire réfléchir le public (adultes) sur le fait que les lieux on
 
 #### Images et scènes
 
-Les images en noir et blanc de Memorsion, transformées par des techniques de 2D et de 3D, sont saccadées et clignotantes, interrompues par des lignes horizontales vacillantes, avec un **« œil »** de caméra qui se déplace de manière fluide, saccadée ou presque violente.
+Les images en noir et blanc de **_Memorsion_**, transformées par des techniques de **2D et de 3D**, sont saccadées et clignotantes, interrompues par des lignes horizontales vacillantes, avec un **« œil »** de caméra qui se déplace de manière fluide, saccadée ou presque violente.
 
 ![Projection et Tissus](./images/memorsion-tissus.jpg)
 
 ### Processus de création
 
-***Memorsion***, développée par Manuel Chantre, poursuit l'exploration de ***Dispergere Maiz (2009)*** avec une installation audiovisuelle immersive sur 22 toiles de projection. En automne 2012, Chantre complète le projet avec une **compilation des musiques** sous la forme innovante d’un bloc en béton, évitant le format CD obsolète.
+**_Memorsion_**, développée par Manuel Chantre, poursuit l'exploration de **_Dispergere Maiz (2009)_** avec une installation audiovisuelle immersive sur 22 toiles de projection. En automne 2012, Chantre complète le projet avec une **compilation des musiques** sous la forme innovante d’un bloc en béton, évitant le format CD obsolète.
 
 ## Comment ?
+
 ---
+
 ### Composante centrale
 
 #### Les projecteurs
 
 ![Projection](./images/memorsion-projection.jpg)
 
-**Variabilité des projections :** Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une **scène à travers une autre**.
+##### Variabilité des projections
 
-**Interaction avec le public :** En se déplaçant à travers ***Memorsion***, le spectateur s'**immerge** dans le monde visuel de la même manière qu'il est projeté sur les écrans. 
+Tous les projecteurs ne montrent pas la même image en même temps ; il y a des variations, des relations, et des chevauchements, permettant de voir une **scène à travers une autre**.
+
+##### Interaction avec le public
+
+En se déplaçant à travers **_Memorsion_**, le spectateur s'**immerge** dans le monde visuel de la même manière qu'il est projeté sur les écrans.
 
 ### Fonctionnement
 
-#### Projections déclenchées par le mouvement 
+#### Projections déclenchées par le mouvement
 
 Memorsion utilise des projections interactives déclenchées par les mouvements des spectateurs, offrant des images et sons uniques selon leur navigation.
 
-### Impact 
+### Impact
 
 ![Oeuvre](./images/memorsion-vue-generale.jpg)
 
-#### Projections déclenchées par le mouvement 
+#### Projections déclenchées par le mouvement
 
-La composante centrale de ***Memorsion***, des projections activées par le **mouvement**, dévoile des fragments d'espaces abandonnés et d'architectures montréalaises déformés, créant un « sens de l'intemporalité » qui immerge le spectateur et l'invite à se **« perdre »** dans l'œuvre.
+La composante centrale de **_Memorsion_**, des projections activées par le **mouvement**, dévoile des fragments d'espaces abandonnés et d'architectures montréalaises déformés, créant un « sens de l'intemporalité » qui immerge le spectateur et l'invite à se **« perdre »** dans l'œuvre.
 
-> «Le monde compare l’installation à un labyrinthe, à une maison de miroirs.» <br><br>*Manuel Chantre*
+> «Le monde compare l’installation à un labyrinthe, à une maison de miroirs.» <br><br>_Manuel Chantre_
 
-#### Distinction dans le paysage multimédia 
+#### Distinction dans le paysage multimédia
 
-***Memorsion*** se distingue par ses projections interactives qui, influencées par les mouvements des spectateurs, transforment des scènes quotidiennes et éléments architecturaux familiers en un **« lieu nulle part »**, issu de l'imagination culturelle.
+**_Memorsion_** se distingue par ses projections interactives qui, influencées par les mouvements des spectateurs, transforment des scènes quotidiennes et éléments architecturaux familiers en un **« lieu nulle part »**, issu de l'imagination culturelle.
 
-> «C’était l’idée de laisser aux gens de découvrir certains lieux et de **réfléchir** à l’architecture.» <br><br>*Manuel Chantre*
+> «C’était l’idée de laisser aux gens de découvrir certains lieux et de **réfléchir** à l’architecture.» <br><br>_Manuel Chantre_
 
 ## Appréciation et commentaire personnel
+
 ---
-J'apprécie ***Memorsion*** pour sa capacité à offrir une expérience immersive personnalisée, où l'abstraction et la familiarité se mêlent pour inciter chaque spectateur à réfléchir profondément sur sa relation intime et subjective avec les environnements urbains. 
+
+J'apprécie **_Memorsion_** pour sa capacité à offrir une expérience **immersive personnalisée**, où l'**abstraction** et la **familiarité** se mêlent pour inciter chaque spectateur à réfléchir profondément sur sa relation intime et subjective avec les environnements urbains.
 
 ## Sources
+
 ---
+
 [Site Manuel Chantre](http://www.manuelchantre.com/memorsion/) <br>
 [Shadow on the wall](http://www.manuelchantre.com/wp-content/uploads/2014/07/2014_Verb_MacPherson_Memorsion16.jpg) <br>
 [Site Manuel Chantre](http://www.manuelchantre.com/memorsion/) <br>
